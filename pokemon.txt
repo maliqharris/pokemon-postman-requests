@@ -1,0 +1,13 @@
+GET https://pokeapi.co/api/v2/pokemon/darkrai
+
+
+GET https://pokeapi.co/api/v2/pokemon/palkia
+
+
+GET https://pokeapi.co/api/v2/pokemon/pikachu
+
+
+GET https://pokeapi.co/api/v2/pokemon/bidoof
+
+
+GET https://pokeapi.co/api/v2/pokemon/bidoof
